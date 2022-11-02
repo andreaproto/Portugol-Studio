@@ -16,7 +16,7 @@
 			escreva("Digite o ", contador, "º número: ")
 			leia(numero)
 			
-			soma = soma + numero  	// A variavel soma é o acumulador deste exemplo
+			soma = soma + numero  	// A varivel soma é o acumulador deste exemplo
 			contador = contador + 1  // Incrementa o contador
 		}
 		
